@@ -1,0 +1,15 @@
+How To use the debug command to debug an assembly
+language Program :---
+
+1. At the dos command prompt enter 'debug sample1.exe'. 
+   you are inside debugger now.
+2. Type '?' and return; it will display you a list   of commands which can be 
+   used to debug a program. for each command there is a single letter command  
+   mnemonic. For example to display CPU registers one   can type 'R' and return.
+3. To start the program type 'G'.
+4. To trace the program type 'T'.
+5. To display a range of memory area type 'D'.For example D Ds:200 will display
+   several bytes from
+   DS:200 address.
+6. To quit debug type 'Q'.
+7. Any memory address can be given as segment:offset.
