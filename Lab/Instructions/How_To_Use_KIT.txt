@@ -1,0 +1,16 @@
+   -: HOW To Use different commands in a KIT :-
+
+A. Entering Data :-
+   1. <Reset>
+   2. <EB> 0 : 2000 <Next>
+   3. Now enter data and keep pressing <Next>
+
+B. Executing Prog :-
+   1. <Reset>
+   2. <Go> 0 : 2000 <Exec>
+   3. [ Only '-' appears on the screen ]
+
+C. Examining Results :-
+   1. <Reset>
+   2. <EB> 0 : 2100 <Next>
+
